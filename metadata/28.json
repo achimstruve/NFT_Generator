@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmUN5Nm2fyjQEyEpRT3Q8JnBGxuBAptjELtLjGQqUexZa2/28.png",
+    "tokenId": 28,
+    "name": "NFT_Test_Punk 28",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "White"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Left Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Small"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Big Smile"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose"
+        }
+    ]
+}

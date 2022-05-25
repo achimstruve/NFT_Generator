@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmUN5Nm2fyjQEyEpRT3Q8JnBGxuBAptjELtLjGQqUexZa2/79.png",
+    "tokenId": 79,
+    "name": "NFT_Test_Punk 79",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Right Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Red Mohawk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Big Smile"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose"
+        }
+    ]
+}

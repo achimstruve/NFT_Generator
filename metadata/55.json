@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmUN5Nm2fyjQEyEpRT3Q8JnBGxuBAptjELtLjGQqUexZa2/55.png",
+    "tokenId": 55,
+    "name": "NFT_Test_Punk 55",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Left Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Red Lipstick"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose"
+        }
+    ]
+}

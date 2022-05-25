@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmUN5Nm2fyjQEyEpRT3Q8JnBGxuBAptjELtLjGQqUexZa2/32.png",
+    "tokenId": 32,
+    "name": "NFT_Test_Punk 32",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Down Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Black Lipstick"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose Ring"
+        }
+    ]
+}
